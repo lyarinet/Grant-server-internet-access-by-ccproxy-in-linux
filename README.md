@@ -10,8 +10,8 @@ It is painful to install something on server without internet access, you need t
 
 4. Login to your linux server, use your CCProxy as proxy server, then you can curl to check if it works
 ```sh
-[root@linux ~]# export http_proxy=http://172.16.49.170:808/
-[root@linux ~]# export https_proxy=http://172.16.49.170:808/
+[root@linux ~]# export http_proxy=http://10.240.150.20:808/
+[root@linux ~]# export https_proxy=http://10.240.150.20:808/
 [root@linux ~]# curl http://www.google.com
 <!DOCTYPE html>
 <html lang=en>
