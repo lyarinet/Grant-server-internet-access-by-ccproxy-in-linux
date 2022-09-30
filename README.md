@@ -1,4 +1,4 @@
-# Grant-server-internet-access-by-ccproxy-in-linux
+# Grant server internet access by ccproxy in linux
 
 It is painful to install something on server without internet access, you need to download package manually and upload it. CCProxy could help your server use your computer internet temporarily, here is the steps :
 
