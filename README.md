@@ -25,3 +25,8 @@ It is painful to install something on server without internet access, you need t
 <p><b>404.</b> <ins>That’s an error.</ins>
 <p>The requested URL <code>/1.1</code> was not found on this server.  <ins>That’s all we know.</ins>
 ```
+If not used Proxy
+```
+unset http_proxy
+unset https_proxy
+```
